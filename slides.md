@@ -276,22 +276,6 @@ image: /Bürgerrechte.jpg
 </v-clicks>
 
 ---
-layout: image-left
-image: /csm_Weltugel_Inerview_Delara_37b653dbe1.png
----
-
-# Europäische Solidarität
-
-<v-clicks>
-
-- Unterstützung für **Freiheitsbewegungen** 
-  - in anderen Ländern
-- Forderung nach einem
-  - **Europa der freien Völker**
-
-</v-clicks>
-
----
 layout: image-right
 image: /Scheitern.jpg
 --- 
