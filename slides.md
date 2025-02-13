@@ -219,7 +219,7 @@ image: /Hecker_and_friends_w.jpg
 
 ---
 layout: image-center
-image: /revolutionaer-forderungen-der.webp
+image: /revolutionaer-forderungen-der.png
 --- 
  
 # Ziele & Forderungen
