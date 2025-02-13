@@ -144,7 +144,11 @@ image: /96005163.jpg
 
 ---
 layout: image-center
+
 image: /KarteMaifest.jpg
+imageWidth: '576'
+imageHeight: '400'
+
 ---
 
 # Der Verlauf des Fests
@@ -220,6 +224,8 @@ image: /Hecker_and_friends_w.jpg
 ---
 layout: image-center
 image: /revolutionaer-forderungen-der.png
+imageWidth: '711'
+imageHeight: '400'
 --- 
  
 # Ziele & Forderungen
