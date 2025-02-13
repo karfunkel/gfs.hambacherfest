@@ -6,7 +6,7 @@ website: 'Ev. Mörike Realschule'
 handle: 'Ylvie Klein, Klasse 8aR'
 
 layout: intro
-introImage: 'HambacherFest.png'
+introimage: '/HambacherFest.png'
 
 ---
 
@@ -22,7 +22,7 @@ layout: center
 
 <br>
 
-![image](./mentimeter_qr_code_1.png)
+![image](/mentimeter_qr_code_1.png)
 
 ---
 layout: iframe
@@ -33,7 +33,7 @@ url: https://www.mentimeter.com/app/presentation/alvkaytq8dmraq1nvjmevf9hyo6h5tw
 
 ---
 layout: image-right
-image: viktorianisch-industrialisierung-100~_v-ARDFotogalerie.jpg
+image: /viktorianisch-industrialisierung-100~_v-ARDFotogalerie.jpg
 ---
 
 # Frühindustrialisierung
@@ -50,7 +50,7 @@ image: viktorianisch-industrialisierung-100~_v-ARDFotogalerie.jpg
 
 ---
 layout: image-right
-image: Failed-Crop-1-1024x675.jpeg
+image: /Failed-Crop-1-1024x675.jpeg
 ---
 
 # Mehrere Missernten
@@ -65,7 +65,7 @@ image: Failed-Crop-1-1024x675.jpeg
 
 ---
 layout: image-right
-image: revolution.jpg
+image: /revolution.jpg
 ---
 
 # Revolutionen von 1830
@@ -80,7 +80,7 @@ image: revolution.jpg
 
 ---
 layout: image-right
-image: f67_1033.jpg
+image: /f67_1033.jpg
 ---
 
 # Was führte zum Hambacher Fest?
@@ -97,7 +97,7 @@ image: f67_1033.jpg
 
 ---
 layout: image-right
-image: 851735d491.jpg
+image: /851735d491.jpg
 ---
 
 # Das Hambacher Fest
@@ -126,7 +126,7 @@ image: 851735d491.jpg
 
 ---
 layout: image-right
-image: 96005163.jpg
+image: /96005163.jpg
 ---
 
 # Steckbrief
@@ -144,14 +144,14 @@ image: 96005163.jpg
 
 ---
 layout: image-center
-image: KarteMaifest.jpg
+image: /KarteMaifest.jpg
 ---
 
 # Der Verlauf des Fests
 
 ---
 layout: image-right
-image: HambacherFest.png
+image: /HambacherFest.png
 ---
 
 # Morgen des 27.05.1832
@@ -170,7 +170,7 @@ image: HambacherFest.png
 
 ---
 layout: image-right
-image: Siebenpfeiffer-Portaet-von-Collmann-minim-e1612341252410.jpg
+image: /Siebenpfeiffer-Portaet-von-Collmann-minim-e1612341252410.jpg
 ---
 
 # Mittag des 27.05.1832
@@ -186,7 +186,7 @@ image: Siebenpfeiffer-Portaet-von-Collmann-minim-e1612341252410.jpg
 
 ---
 layout: image-right
-image: hambacher1_01.jpg
+image: /hambacher1_01.jpg
 ---
 
 # Nachmittag und Abend
@@ -204,7 +204,7 @@ image: hambacher1_01.jpg
 
 ---
 layout: image-right
-image: Hecker_and_friends_w.jpg
+image: /Hecker_and_friends_w.jpg
 ---
 
 # Folgetage bis 1. Juni
@@ -219,14 +219,14 @@ image: Hecker_and_friends_w.jpg
 
 ---
 layout: image-center
-image: revolutionaer-forderungen-der.webp
+image: /revolutionaer-forderungen-der.webp
 --- 
  
 # Ziele & Forderungen
 
 ---
 layout: image-left
-image: BCFC-iStock-Getty-Images-Plus-2.jpg
+image: /BCFC-iStock-Getty-Images-Plus-2.jpg
 --- 
 
 # Freiheit & Demokratie
@@ -241,7 +241,7 @@ image: BCFC-iStock-Getty-Images-Plus-2.jpg
 
 ---
 layout: image-left
-image: ha000463.jpeg
+image: /ha000463.jpeg
 --- 
 
 # Nationale Einheit
@@ -255,7 +255,7 @@ image: ha000463.jpeg
 
 ---
 layout: image-left
-image: Bürgerrechte.jpg
+image: /Bürgerrechte.jpg
 --- 
 
 # Bürgerrechte und soziale Gerechtigkeit
@@ -271,7 +271,7 @@ image: Bürgerrechte.jpg
 
 ---
 layout: image-left
-image: csm_Weltugel_Inerview_Delara_37b653dbe1.png
+image: /csm_Weltugel_Inerview_Delara_37b653dbe1.png
 ---
 
 # Europäische Solidarität
@@ -287,7 +287,7 @@ image: csm_Weltugel_Inerview_Delara_37b653dbe1.png
 
 ---
 layout: image-right
-image: Scheitern.jpg
+image: /Scheitern.jpg
 --- 
 
 #  Negative Folgen
@@ -320,7 +320,7 @@ image: Scheitern.jpg
 
 ---
 layout: image-right
-image: 1713266165966,barrikadenszene-am-alexanderplatz-revolution-100~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg
+image: /1713266165966,barrikadenszene-am-alexanderplatz-revolution-100~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg
 --- 
 
 # Positive Folgen
@@ -334,7 +334,7 @@ image: 1713266165966,barrikadenszene-am-alexanderplatz-revolution-100~_v-16x9@2d
 
 ---
 layout: image-right
-image: SiebenWirth.jpg
+image: /SiebenWirth.jpg
 ---
 
 # Die Hauptveranstalter
@@ -355,7 +355,7 @@ image: SiebenWirth.jpg
 
 ---
 layout: image-right
-image: Bundestag.jpg
+image: /Bundestag.jpg
 ---
 
 # Fazit
@@ -371,7 +371,7 @@ layout: center
 
 <br>
 
-![image](./mentimeter_qr_code_2.png)
+![image](/mentimeter_qr_code_2.png)
 
 ---
 layout: iframe
