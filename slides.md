@@ -6,7 +6,7 @@ website: 'Ev. Mörike Realschule'
 handle: 'Ylvie Klein, Klasse 8aR'
 
 layout: intro
-introimage: /HambacherFest.png
+introImage: '/HambacherFest.png'
 
 ---
 
